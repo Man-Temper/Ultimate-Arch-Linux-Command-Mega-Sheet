@@ -247,5 +247,5 @@ systemctl disable service   # Disable service at boot
 - On Arch → read the wiki daily  
 - Break, fix, repeat → learn Linux  
 
-**if you need more detail tetorial**: https://linuxjourney.com/ 
+**if you need more detail tetorial**: **[Linux Journey](https://linuxjourney.com/)** or **[Linux Guide](https://github.com/mikeroyal/Linux-Guide)**
 
